@@ -25,7 +25,7 @@ Update Python for best results.
 3. Download the Python script (dlp_scanner.py). Run the script from your
 terminal:  
   
-\`\`\`python pii_scanner.py\`\`\`  
+\`\`\`python dlp_scanner.py\`\`\`  
   
 4. Let it run through fully; you may encounter some errors with the
 PyPDF2 module. This is expected.
